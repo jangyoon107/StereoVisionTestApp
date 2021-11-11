@@ -1,4 +1,4 @@
-# UnityStereoVisionTest
+# StereoVeisionTestApp
 
 * Tested on Oculus Rift
 
